@@ -178,10 +178,10 @@ section {
   border-radius:50px;
 }
 .section__pic-container>img{
-  width: 100%;
   height:100%;
   border-radius: 100%;
 }
+
 .section__text {
   align-self: center;
   text-align: center;
